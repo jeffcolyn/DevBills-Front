@@ -1,3 +1,5 @@
+React + TypeScript + Vite
+
 Tecnologias Principais
 
 React: Uma biblioteca JavaScript para construção de interfaces de usuário.
